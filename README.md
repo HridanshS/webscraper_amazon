@@ -1,3 +1,4 @@
+This was cloned from fnneves
 # Amazon Scraper tool
 
 Simple function that will get product prices and other information from product URLs provided in a csv file.
@@ -21,3 +22,6 @@ You might need to pip install xlrd because we work with excel also. Or you can c
 BeautifulSoup, requests, pandas, the usual!
 
 The article with the project details can be found here: https://towardsdatascience.com/scraping-multiple-amazon-stores-with-python-5eab811453a8
+
+
+Original repo: https://github.com/fnneves/amazon_webscraper
